@@ -1,0 +1,2 @@
+# SpeechRecognitor
+Python speech recognitor
